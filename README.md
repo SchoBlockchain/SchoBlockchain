@@ -1,3 +1,6 @@
+![](https://github.com/SchoBlockchain/SchoBlockchain/blob/main/smart%20contractengineer.png)
+
+
 ### Hi there 👋
 
 <!--
