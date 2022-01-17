@@ -1,11 +1,9 @@
 ![](https://github.com/SchoBlockchain/SchoBlockchain/blob/main/smart%20contractengineer.png)
 
 <h1 align="center">Hi 👋, I'm Devante Schofield</h1>
-<h3 align="center">A passionate Blockchain Developer, living in LA</h3>
+<h3 align="center">A passionate Blockchain Developer, living in LA!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schoblockchain&label=Profile%20views&color=0e75b6&style=flat" alt="schoblockchain" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vscho____" target="blank"><img src="https://img.shields.io/twitter/follow/vscho____?logo=twitter&style=for-the-badge" alt="vscho____" /></a> </p>
 
 - 🔭 I’m currently working on **Building a DEX!**
 
